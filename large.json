@@ -1,0 +1,24 @@
+{
+    "date":"14/12/2022",
+    "etternavn":"Skudig",
+    "people": [
+
+        {
+            "name":"Philip",
+            "age":18,
+            "number":69147111
+        },
+
+        {
+            "name":"Henrik",
+            "age":16,
+            "number":11122333
+        },
+
+        {
+            "name":"Sophie",
+            "age":16,
+            "number":33322111
+        }
+    ]
+}
